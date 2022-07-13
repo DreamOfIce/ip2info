@@ -1,0 +1,17 @@
+{
+    "inputFiles":[
+        {
+            "name":"纯真IP库",
+            "path":"../tmp/czip.csv"
+        },
+        {
+            "name":"DB-IP IP2City(IPv6)",
+            "path":"../tmp/dbip.csv"
+        },
+        {
+            "name":"Maxmind GeoIP Lite(IPv4)",
+            "path":"../tmp/geolite.csv"
+        }
+    ],
+    "savePath": "../../data/ip_merge.csv"
+}
